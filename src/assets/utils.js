@@ -1,0 +1,1 @@
+export const URL_FRONTEND = 'https://paidjob.000webhostapp.com/server/'
